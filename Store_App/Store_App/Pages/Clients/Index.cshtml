@@ -3,6 +3,7 @@
 @{
 }
 <br />
+
 <h2>List of Clients</h2>
 <a class="btn btn-primary btm-sm" href="/Clients/Create">New Client</a>
 
@@ -29,8 +30,8 @@
 				<td>@item.address</td>
 				<td>@item.created_at</td>
 				<td>
-					<a class="btn btn-info btn-sm" href="/Client/Edit?id=@item.id">Edit </a>
-					<a class="btn btn-danger btn-sm" href="/Client/Delete?id=@item.id">Delete</a>
+					<a class="btn btn-info btn-sm" href="/Clients/Edit?id=@item.id">Edit</a>
+					<a class="btn btn-danger btn-sm" href="/Clients/Delete?id=@item.id">Delete</a>
 				</td>
 			</tr>
 		}

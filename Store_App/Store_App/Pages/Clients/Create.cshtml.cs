@@ -60,7 +60,7 @@ namespace Store_App.Pages.Clients
             clientInfo.phone = "";
 			successMessage = "New Client Added Successfully";
 
-            Response.Redirect("/Index");
+            Response.Redirect("/Clients");
 
 
 
