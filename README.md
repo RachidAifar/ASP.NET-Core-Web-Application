@@ -27,7 +27,7 @@ the application will start running on `http://localhost:5000` or `https://localh
 ## Features
 
 - CRUD operations for clients
-- Search and filter clients by name, email, and phone number
+- Search and filter clients by name, email
 - Pagination for displaying clients in a table
 
 ## Built With
