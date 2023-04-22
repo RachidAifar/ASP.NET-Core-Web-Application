@@ -11,7 +11,7 @@ This is a web application built with ASP.NET Core and SQL Server for managing cl
 ### Installation
 
 1. Clone the repository to your local machine:
-git clone 
+git clone https://github.com/RachidAifar/ASP.NET-Core-Web-Application.git
 2. Open the solution file (`ClientApp.sln`) in Visual Studio or Visual Studio Code.
 
 3. Build the solution to restore NuGet packages:
