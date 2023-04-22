@@ -22,7 +22,7 @@ This will create a new database with the name `ClientAppDb` in your local SQL Se
 5. Start the application:
 dotnet run
 
-he application will start running on `http://localhost:5000` or `https://localhost:5001` (if using HTTPS).
+the application will start running on `http://localhost:5000` or `https://localhost:5001` (if using HTTPS).
 
 ## Features
 
