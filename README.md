@@ -41,6 +41,9 @@ the application will start running on `http://localhost:5000` or `https://localh
 Contributions are always welcome! If you have any suggestions or find any bugs, please create an issue or submit a pull request.
 
 
+That's it):::
+
+
 
 
 
